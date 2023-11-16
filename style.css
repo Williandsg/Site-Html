@@ -1,0 +1,32 @@
+body {background-color: black;}
+
+.nome {color: #FFFFFF; font-size: 30px; text-align: center;}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    padding-top: 20px;
+  }
+
+
+#título {font-size: 60px; text-align: center}
+
+.título {background-color: rgb(0, 211, 183);}
+
+p {text-align: center; font-size: 30px}
+
+strong {color: white;}
+
+.secondimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+#subtítulo {font-size: 50px; text-align: center;}
+
+.subtítulo {background-color: rgb(204, 193, 214);}
+.itens {font-style: italic; font-size: 30px}
